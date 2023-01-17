@@ -1,5 +1,8 @@
 # DenseNet-_NT_annot_and_variables_extraction
 
+# slide Tiling 
+![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_NT_annot_and_variables_extraction/blob/main/tilling.PNG)
+
 Create a model to annotate slides (pancreatic cancer) ===> models and pdf file for results of annotation
 
 
